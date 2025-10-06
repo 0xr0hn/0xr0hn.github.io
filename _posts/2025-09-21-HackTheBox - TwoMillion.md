@@ -9,6 +9,7 @@ tags:
   - kernel_exploit
   - web_app
   - api
+  - linux
 media_subpath: /assets/images
 image: 2millionhtb.png
 ---
